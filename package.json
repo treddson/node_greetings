@@ -1,0 +1,24 @@
+{
+  "name": "node-greeting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treddson/node_greetings.git"
+  },
+  "author": "Taylor Short",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treddson/node_greetings/issues"
+  },
+  "homepage": "https://github.com/treddson/node_greetings#readme"
+}
